@@ -1,0 +1,5 @@
+C:\Users\DELL 7510\Desktop\Code_XLA\code_all\KinectV2Viewer\obj\Debug\KinectV2Viewer.csprojAssemblyReference.cache
+C:\Users\DELL 7510\Desktop\Code_XLA\code_all\KinectV2Viewer\obj\Debug\KinectV2Viewer.Form1.resources
+C:\Users\DELL 7510\Desktop\Code_XLA\code_all\KinectV2Viewer\obj\Debug\KinectV2Viewer.Properties.Resources.resources
+C:\Users\DELL 7510\Desktop\Code_XLA\code_all\KinectV2Viewer\obj\Debug\KinectV2Viewer.csproj.GenerateResource.cache
+C:\Users\DELL 7510\Desktop\Code_XLA\code_all\KinectV2Viewer\obj\Debug\KinectV2Viewer.csproj.CoreCompileInputs.cache

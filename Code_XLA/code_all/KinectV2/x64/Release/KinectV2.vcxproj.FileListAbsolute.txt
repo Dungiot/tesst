@@ -1,0 +1,9 @@
+D:\Luận_án_robot_bin_picking\DATN_Robot pin picking\xu_ly_anh_va_dieu_khien\code_all\KinectV2\x64\Release\KinectV2.vcxprojAssemblyReference.cache
+D:\Luận_án_robot_bin_picking\DATN_Robot pin picking\xu_ly_anh_va_dieu_khien\code_all\KinectV2\x64\Release\KinectV2.vcxproj.CopyComplete
+C:\Users\DELL PRECISION\Desktop\Code Xử lý ảnh\code_all\KinectV2\x64\Release\KinectV2.vcxprojAssemblyReference.cache
+C:\Users\DELL PRECISION\Desktop\Code Xử lý ảnh\code_all\KinectV2\x64\Release\KinectV2.vcxproj.CopyComplete
+C:\Users\DELL 7510\Desktop\Code Xử lý ảnh\code_all\KinectV2\x64\Release\KinectV2.vcxproj.CopyComplete
+C:\Users\DELL 7510\Desktop\Code_XLA\code_all\KinectV2\x64\Release\KinectV2.vcxproj.CopyComplete
+C:\Users\DELL 7510\Desktop\Code_XLA\code_all\KinectV2\x64\Release\KinectV2.vcxprojAssemblyReference.cache
+C:\Users\DELL PRECISION\Desktop\Code_XLA\code_all\KinectV2\x64\Release\KinectV2.vcxprojAssemblyReference.cache
+C:\Users\DELL PRECISION\Desktop\Code_XLA\code_all\KinectV2\x64\Release\KinectV2.vcxproj.CopyComplete

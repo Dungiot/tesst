@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\DELL 7510\DESKTOP\CODE_XLA\CODE_ALL\X64\RELEASE\KITWARE.MUMMY.RUNTIME.DLL" is missing.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\DELL 7510\DESKTOP\CODE_XLA\CODE_ALL\X64\RELEASE\KITWARE.VTK.DLL" is missing.
+  stdafx.cpp
+  AssemblyInfo.cpp
+  VTKLibrary.cpp
+  vtkRANSACPlane.cpp
+C:\Users\DELL PRECISION\Desktop\Code_XLA\code_all\KinectV2\vtkRANSACPlane.cpp(132,37): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+vtkRANSACPlane.obj : warning LNK4248: unresolved typeref token (01000017) for 'vtkAlgorithmOutput'; image may not run
+VTKLibrary.obj : warning LNK4248: unresolved typeref token (0100001F) for 'vtkAlgorithmOutput'; image may not run
+vtkRANSACPlane.obj : warning LNK4248: unresolved typeref token (0100001D) for 'vtkInformationDataObjectKey'; image may not run
+vtkRANSACPlane.obj : warning LNK4248: unresolved typeref token (0100001E) for 'vtkInformationStringVectorKey'; image may not run
+  KinectV2.vcxproj -> C:\Users\DELL PRECISION\Desktop\Code_XLA\code_all\x64\Release\VTKLibrary.dll
